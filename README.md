@@ -74,21 +74,24 @@ The dataset contains thousands of hand gesture images belonging to multiple gest
 Shows the training and validation accuracy and loss across epochs, helping visualize the learning progress of the CNN model.
 
 Output File:
-accuracy_&_loss.png
+![Accuracy and Loss Graph](accuracy_&_loss.png)
+
 
 ### 📊 Confusion Matrix
 
 Displays the classification performance by comparing actual labels with predicted labels for all gesture classes.
 
 Output File:
-confussion_matrix.png
+![Confusion Matrix](confussion_matrix.png)
+
 
 ### ✋ Sample Predictions
 
 Shows test gesture images along with their actual and predicted labels to demonstrate the model's recognition capability.
 
 Output File:
-pridiction_plot.png
+![Sample Predictions](pridiction_plot.png)
+
 
 ---
 
