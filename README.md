@@ -99,7 +99,7 @@ Output File:
 
 PRODIGY_ML_04
 
-├── hand_gesture_recognition.py
+├── main.py
 
 ├── README.md
 
